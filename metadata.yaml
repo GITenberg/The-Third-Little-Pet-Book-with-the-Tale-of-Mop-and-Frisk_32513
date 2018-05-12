@@ -1,0 +1,36 @@
+_repo: The-Third-Little-Pet-Book-with-the-Tale-of-Mop-and-Frisk_32513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Barrow, Frances Elizabeth
+    - Mease, Frances Elizabeth
+    - Aunt Fanny
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: ''
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Readers'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: The Third Little Pet Book, with the Tale of Mop and Frisk
+url: http://www.gutenberg.org/ebooks/32513
